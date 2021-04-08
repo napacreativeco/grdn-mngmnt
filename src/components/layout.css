@@ -1,13 +1,13 @@
 /* Fonts */
 @font-face {
-  font-family: 'Hamburg Hand', sans-serif !important;
+  font-family: 'Hamburg Hand';
   src: url('/fonts/HamburgHandBold.woff2') format('woff2'),
       url('/fonts/HamburgHandBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Hamburg Hand', sans-serif !important;
+  font-family: 'Hamburg Hand';
   src: url('/fonts/HamburgHandRegular.woff2') format('woff2'),
       url('/fonts/HamburgHandRegular.woff') format('woff');
   font-weight: normal;
@@ -21,7 +21,7 @@
 
 /* Typography */
 h1, h2, h3, h4, h5, p, a, html, button {
-  font-family: 'Hamburg Hand';
+  font-family: 'Hamburg Hand', sans-serif !important;
   font-weight: normal;
   font-style: normal;
   letter-spacing: 2px;
