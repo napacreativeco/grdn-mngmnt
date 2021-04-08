@@ -15,11 +15,13 @@ const IndexPage = () => (
       <div>
         <h2>
           MICHAEL FENTON<br />
+          CULTIVATION / PROJECT MANAGEMENT<br />
           MIKE@GRDNMNGMNT.COM
         </h2>
         <p style={{ margin: '10px 0px'}}>-------------------</p>
         <h2>
           SEAMUS GUEVARA<br />
+          SALES / CULTIVATION MANAGEMENT<br />
           SEAMUS@GRDNMNGMNT.COM
         </h2>
       </div>
